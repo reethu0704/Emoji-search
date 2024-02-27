@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  margin-top: 10px;
+  font-family:  sans-serif;
+  background-color: black;
+  width: 100%;
+} 
+h1 {
+  text-shadow: 2px 2px gray;
+  font-size: 50px;
+  font-weight: 525;
+  color: white;
+} 
+.card{
+  width: 90%;
+  padding: 2px 3px;
+  margin:10px auto;
+  color: white;
+  background-color: purple ;
+  box-shadow: 3px 3px grey;
+}
+input{
+  border-radius: 4px;
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  text-align: center;
+  margin-bottom: 25px;
+  margin: 20px auto;
+
+}
+.footer {
+  background-color: rgb(80, 5, 80);
+  color: beige;
+  position: fixed;
+  border-top: 1.5px solid rgb(14, 13, 13);
+  font-size: 15px;
+  width: 100%;
+  bottom: 0;
+  padding: 8px;
+  text-align: center;
+  height: 50px;
+}
